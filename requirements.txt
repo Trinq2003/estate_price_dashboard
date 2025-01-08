@@ -5,3 +5,4 @@ plotly
 streamlit
 branca
 scipy
+streamlit_folium
